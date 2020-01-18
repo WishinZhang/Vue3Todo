@@ -1,6 +1,6 @@
 # Vue3Todo
 
-基于vue3+typescript的todo案例
+基于vue3 + typescript的todo案例，Vue Composition API中文文档：[https://github.com/WishinZhang/Vue-Composition-API-zh-CN](https://github.com/WishinZhang/Vue-Composition-API-zh-CN)
 
 ## Project setup
 
