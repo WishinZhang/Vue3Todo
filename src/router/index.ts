@@ -6,6 +6,10 @@ Vue.use(VueRouter);
 
 const routes = [
   {
+    path: '/',
+    redirect: '/all'
+  },
+  {
     path: '/:state',
     name: 'main',
     component: Main
